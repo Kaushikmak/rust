@@ -1,10 +1,10 @@
-# Rust
+# Rust build artifacts
 
-/target/
+target/
 
-# Cargo
+# Rust analyzer / flycheck
 
-Cargo.lock
+flycheck0/
 
 # IDEs
 
@@ -15,8 +15,4 @@ Cargo.lock
 
 .DS_Store
 Thumbs.db
-
-# Logs
-
-*.log
 
