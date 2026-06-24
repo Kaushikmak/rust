@@ -1,0 +1,6 @@
+- each value is RUST has an owner
+- there can only be one owner at a time
+- when the owner foes out of scope the value will be dropped
+
+double free error
+

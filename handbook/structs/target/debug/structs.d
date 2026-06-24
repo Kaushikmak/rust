@@ -1,0 +1,1 @@
+/mnt/storage/build/rust/handbook/structs/target/debug/structs: /mnt/storage/build/rust/handbook/structs/src/main.rs /mnt/storage/build/rust/handbook/structs/src/methods.rs /mnt/storage/build/rust/handbook/structs/src/struct_example.rs
